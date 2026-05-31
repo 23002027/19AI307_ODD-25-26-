@@ -1,3 +1,55 @@
-# 19AI307_ODD(25-26)
+# 19AI307 – Object Oriented Programming using Java
 
-ODD_2025-26
+## Overview
+
+This repository contains Java Programming Laboratory programs, exercises, assignments, quizzes, and module-wise practice codes for the course **19AI307 – Object Oriented Programming using Java**.
+
+The repository is organized module-wise to help students understand core Java concepts progressively from basics to advanced Object-Oriented Programming concepts.
+
+---
+
+# Course Modules
+
+| Module    | Topics Covered                                         | Repository Link                                                                                                |
+| --------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
+| Module 01 | Java Basics, Data Types, Operators, Control Statements | [Open Module 01](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-01) |
+| Module 02 | Arrays, Strings, Methods, Constructors                 | [Open Module 02](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-02) |
+| Module 03 | Packages, Inheritance, Aggregation, Polymorphism       | [Open Module 03](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-03) |
+| Module 04 | Exception Handling, Multithreading, Collections        | [Open Module 04](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-04) |
+| Module 05 | File Handling, GUI, JDBC, Advanced Java Concepts       | [Open Module 05](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-05) |
+
+---
+
+# Repository Structure
+
+```text
+19AI307_ODD-25-26-
+│
+├── 19AI307_JAVA(25-26)
+│   ├── Module-01
+│   │   └── README.md
+│   ├── Module-02
+│   │   └── README.md
+│   ├── Module-03
+│   │   └── README.md
+│   ├── Module-04
+│   │   └── README.md
+│   └── Module-05
+│       └── README.md
+│
+└── README.md
+```
+
+---
+
+# Author
+
+**K. HEMANATH**
+
+* GitHub: https://github.com/Hemanath08
+
+---
+
+# License
+
+This repository is maintained for educational and academic purposes.
