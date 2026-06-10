@@ -21,8 +21,8 @@ To demonstrate string compression and decompression using ByteArrayOutputStream,
  ```
 /*
 Program to implement a Serialization and Deserialization using Java
-Developed by: K.HEMANATH
-RegisterNumber: 212223100012
+Developed by: Kamesh RR
+RegisterNumber: 212223230095
 */
 ```
 
