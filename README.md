@@ -12,11 +12,11 @@ The repository is organized module-wise to help students understand core Java co
 
 | Module    | Topics Covered                                         | Repository Link                                                                                                |
 | --------- | ------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------- |
-| Module 01 | Java Basics, Data Types, Operators, Control Statements | [Open Module 01](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-01) |
-| Module 02 | Arrays, Strings, Methods, Constructors                 | [Open Module 02](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-02) |
-| Module 03 | Packages, Inheritance, Aggregation, Polymorphism       | [Open Module 03](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-03) |
-| Module 04 | Exception Handling, Multithreading, Collections        | [Open Module 04](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-04) |
-| Module 05 | File Handling, GUI, JDBC, Advanced Java Concepts       | [Open Module 05](https://github.com/Hemanath08/19AI307_ODD-25-26-/tree/main/19AI307_JAVA%2825-26%29/Module-05) |
+| Module 01 | Java Basics, Data Types, Operators, Control Statements | [Open Module 01](https://github.com/23002027/19AI307_ODD-25-26-/tree/main/19AI307_JAVA(25-26)/Module-01) |
+| Module 02 | Arrays, Strings, Methods, Constructors                 | [Open Module 02](https://github.com/23002027/19AI307_ODD-25-26-/tree/main/19AI307_JAVA(25-26)/Module-02) |
+| Module 03 | Packages, Inheritance, Aggregation, Polymorphism       | [Open Module 03](https://github.com/23002027/19AI307_ODD-25-26-/tree/main/19AI307_JAVA(25-26)/Module-03) |
+| Module 04 | Exception Handling, Multithreading, Collections        | [Open Module 04](https://github.com/23002027/19AI307_ODD-25-26-/tree/main/19AI307_JAVA(25-26)/Module-04) |
+| Module 05 | File Handling, GUI, JDBC, Advanced Java Concepts       | [Open Module 05](https://github.com/23002027/19AI307_ODD-25-26-/tree/main/19AI307_JAVA(25-26)/Module-05) |
 
 ---
 
