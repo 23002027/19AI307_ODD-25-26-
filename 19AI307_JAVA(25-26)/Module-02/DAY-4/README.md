@@ -29,8 +29,8 @@ To write a Java program that demonstrates accessing a static variable using both
  ```
 /*
 Program to implement a Variable scope and Constructor using Java
-Developed by: K.HEMANATH
-RegisterNumber: 212223100012
+Developed by: Kamesh RR
+RegisterNumber: 212223230095
 */
 ```
 
