@@ -42,8 +42,8 @@ Create an AreaCalculator class using method overloading to calculate areas of a 
  ```
 /*
 Program to implement a Polymorphism using Java
-Developed by: K.HEMANATH
-RegisterNumber: 212223100012
+Developed by: Kamesh RR
+RegisterNumber: 212223230095
 */
 ```
 
